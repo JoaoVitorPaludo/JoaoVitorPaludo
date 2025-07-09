@@ -1,6 +1,6 @@
 ## **João Vitor Primieri Paludo**
 ### **About Me:**
-##### Me chamo João Vitor, tenho 22 anos formado em Análise e Desenvolvimento De Sistemas - Universidade de Passo-Fundo. Atualmente trabalhando na Dataintegra Consultoria em Tecnologia Da Informação.
+##### Me chamo João Vitor, tenho 23 anos formado em Análise e Desenvolvimento De Sistemas - Universidade de Passo-Fundo. Atualmente trabalhando na Dataintegra Consultoria em Tecnologia Da Informação.
 ##
 ### Tecnologias de Estudo:
 <div style="display: inline_block"> <br>
